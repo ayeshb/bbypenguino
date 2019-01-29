@@ -1,0 +1,33 @@
+#bbyPenguino{
+color: black;
+font: calibri, sans-serif;
+font-size: 16ppx;
+
+}
+
+.bodyText{
+color: purple;
+font: arial;
+font-size: 12ppx;
+border-bottom: 5px solid black;
+}
+
+header img {
+	width: 100%;
+}
+
+h2 {
+	color: red;
+font; impact;
+position: middle;
+border-bottom: 5px solid black;
+}
+
+h3	{
+color: black;
+background-color: yellow;
+text-align: center;
+shape-margin: 60px;
+
+
+}
